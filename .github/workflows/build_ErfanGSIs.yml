@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatch78f4887175a1a842/bigota.d.miui.com/20.6.18/miui_HMNote5_20.6.18_887af1fbe4_9.0.zip
+  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatch78f4887175a1a844/bigota.d.miui.com/9.6.27/miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip?bsreqid=a20693a10d1cc8ba3e80c892c4bb1b24&DPhost=xiaomi.baishancdnx.cn
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
